@@ -1,8 +1,9 @@
 body{
   background-color:#269920;
   text-align: center;
-  border: 40px solid blue;
+  border: 50px solid yellow;
   border-top: 0px;
+  padding-bottom: 20px;
 }
 
 table{
@@ -26,7 +27,6 @@ ol{
 
 }
 
-
 #submit{
   width: 150px;
   height: 80px;
@@ -35,4 +35,8 @@ ol{
   border-radius: 20px;
   background-color: orange;
   color:red;
+}
+
+.navbar {
+  margin-bottom: 20px;
 }
